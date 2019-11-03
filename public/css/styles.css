@@ -1,0 +1,29 @@
+div {
+    display: flex;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    border-radius: 8px;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+button:hover {
+  background-color: #555555;
+  color: white;
+}
